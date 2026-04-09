@@ -1,4 +1,5 @@
 
+ 
 #Guacamole
 ## ingredients
 * avocado
@@ -8,4 +9,4 @@
 ## I add some commands
 
 put one avocado in a bowl
-mash the avocado
+mash the avocado really well
